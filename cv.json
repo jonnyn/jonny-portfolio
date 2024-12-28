@@ -2,18 +2,18 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
+    "name": "Jonny Luan Nguyen",
+    "label": "Experienced Full Stack Engineer",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
+    "email": "jonnyn@live.com",
+    "url": "https://www.jonnyn.com",
     "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "theme": "green",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "",
+      "city": "Vancouver, BC",
+      "countryCode": "CA",
+      "region": "Canada"
     },
     "profiles": [
       {
@@ -31,8 +31,8 @@
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "jonnyn",
+        "url": "https://github.com/jonnyn"
       }
     ],
     "beian": {
@@ -472,12 +472,12 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "Vietnamese",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Professional working proficiency"
     }
   ],
   "interests": [
@@ -485,13 +485,16 @@
       "name": "Technology",
       "keywords": [
         "AI",
-        "Blockchain"
+        "Blockchain",
+        "Cloud Computing",
+        "Fullstack",
+        "Mobile Development"
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "Jonny Luan Nguyen",
       "reference": "Reference…"
     }
   ],
