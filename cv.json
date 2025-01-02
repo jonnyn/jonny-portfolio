@@ -2,31 +2,25 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "Jonny Luan Nguyen",
+    "name": "Jonny Nguyen",
     "label": "Experienced Full Stack Engineer",
     "image": "/avatar.png",
     "email": "jonnyn@live.com",
     "url": "https://www.jonnyn.com",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "green",
+    "summary": "Software Engineer and Solution Architect with over 10 years of experience in developing weband mobile applications using both native and hybrid technologies. Proven expertise insolution architecture, full-stack development, and DevOps practices, with a strong trackrecord of leading scalable cloud infrastructure projects on AWS. A collaborative team playerwith a passion for innovation, continuous learning, and delivering high-quality softwaresolutions.",
+    "theme": "default",
     "location": {
-      "address": "",
-      "city": "Vancouver, BC",
+      "address": "Vancouver",
+      "city": "BC",
       "countryCode": "CA",
       "region": "Canada"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "LinkedIn",
+        "icon": "mdi:linkedin",
+        "username": "jonnyn",
+        "url": "https://www.linkedin.com/in/jonny-nguyen/"
       },
       {
         "network": "GitHub",
@@ -34,11 +28,7 @@
         "username": "jonnyn",
         "url": "https://github.com/jonnyn"
       }
-    ],
-    "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
-    }
+    ]
   },
   "images": {
     "intro": "Photography is the art of light, and images are the contours of memory.",
@@ -47,114 +37,218 @@
         "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
         "alt": "Sunset in Nanchang",
         "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
       }
     ]
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
-      "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
+      "institution": "Simon Fraser University",
+      "url": "https://www.sfu.ca/",
+      "area": "Vancouver, BC",
+      "studyType": "Bachelor of Computer Science (BSc) in Computer Science",
+      "startDate": "2007-9-05",
+      "endDate": "2011-4-30"
     },
     {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
+      "institution": "Humber College",
+      "url": "https://humber.ca/",
+      "area": "Toronto, ON",
+      "studyType": "Diploma in Computer Programming",
+      "startDate": "2003-9-05",
+      "endDate": "2005-4-30"
+    }
+  ],
+  "certificates": [    
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2022-04-14",
       "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": "Amazon"
+    },
+    {
+      "name": "AWS Business Professional Certification",
+      "date": "2022-05-01",
+      "url": "",
+      "issuer": "Amazon"
+    },
+    {
+      "name": "Google Analytics Certification",
+      "date": "2018-05-01",
+      "url": "",
+      "issuer": "Google"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
+      "name": "Tipbox Ltd.",
+      "position": "Senior Full-stack Developer",
       "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "location": "Vancouver, BC",
+      "url": "https://tipbox.io",
+      "startDate": "2021-03-01",
+      "endDate": "2024-12-01",
+      "summary": "Joined Tipbox as a Core team member to lead the development of a new cloud-based platform for connecting teams and solving fractured.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Designed, developed, and tested major features to ensure high-quality and scalablesolutions."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Oversaw the transition of Tipbox from production to commercialization, leading featured evelopment, scaling challenges, and cross-functional coordination."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Established long-term application architecture in collaboration with cross-functional teams."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
         "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
+        "TypeScript": "simple-icons:typescript",
+        "Vite": "simple-icons:vite",
+        "Node": "ri:nodejs-line",
+        "Apollo": "simple-icons:apollographql",
+        "Express": "simple-icons:express",
+        "GraphQL": "simple-icons:graphql",
+        "PostgreSQL": "simple-icons:postgresql",
+        "Prisma": "simple-icons:prisma",
+        "Charka UI": "simple-icons:chakraui",
+        "AWS": "simple-icons:amazonaws",
+        "Terraform": "mdi:terraform",
+        "Sentry": "simple-icons:sentry"
       }
     },
     {
-      "name": "Riddle Town Team",
+      "name": "Convergence Concepts Inc.",
       "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "location_type": "On-site",
+      "location": "Vancouver, BC",
+      "url": "https://cctech.io/",
+      "startDate": "2020-06-01",
+      "endDate": "2021-11-30",
+      "summary": "Worked on a variety of projects, including web and mobile applications, cloud infrastructure, and real-time data synchronization.",
       "highlights": [
-        "Completed 95% of project content."
+        "Built a complex logistics platform (Lyft Shipping) with AWS, Node.js, MongoDB, React, and React Native.",
+        "Designed and implemented AWS-based cloud infrastructure and real-time datasynchronization for mobile apps.",
+        "Contributed to cloud migration projects and infrastructure setups."
       ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+      "skills": {
+        "React": "mdi:react",
+        "React Native": "mdi:react",
+        "TypeScript": "simple-icons:typescript",
+        "AWS": "simple-icons:amazonaws",
+        "Node": "ri:nodejs-line",
+        "Express": "simple-icons:express",
+        "MongoDB": "simple-icons:mongodb",
+        "mongoose": "simple-icons:mongoose",
+        "SQL": "simple-icons:mysql"
+      }
+    },
+    {
+      "name": "National Film Board of Canada",
+      "position": "Web/Mobile Developer",
+      "location_type": "On-site",
+      "location": "Vancouver, BC",
+      "url": "https://nfb.ca/",
+      "startDate": "2018-08-01",
+      "endDate": "2020-06-01",
+      "summary": "Built NFB mobile app and managed NFB interactive CMS using React, React Native, Redux, Material UI, and Jest.",
+      "highlights": [
+        "Developed the NFB Films App (cross-platform mobile application) and an interactive CMS using React Native, Redux, Firebase, and Jest.",
+        "Played a key role as app manager, setting up development pipelines and delivering robust solutions.",
+        "Participated in Agile development, achieving high velocity and timely deliveries."
       ],
-      "achievements": [
-        "Ensured smooth project execution."
-      ],
+      "skills": {
+        "React": "mdi:react",
+        "React Native": "mdi:react",
+        "Fastlane": "simple-icons:fastlane",
+        "Material-UI": "mdi:material-ui",     
+        "AWS": "simple-icons:amazonaws",
+        "Firebase": "simple-icons:firebase",
+        "Jest": "simple-icons:jest",
+        "Google Analytics": "simple-icons:googleanalytics",
+        "Google Tag Manager": "simple-icons:googletagmanager"
+      }
+    },
+    {
+      "name": "LaSalle College Vancouver",
+      "position": "Part-time Instructor",
+      "location_type": "On-site",
+      "location": "Vancouver, BC",
+      "url": "https://lasallecollegevancouver.lcieducation.com/en",
+      "startDate": "2017-08-01",
+      "endDate": "2018-12-01",
+      "summary": "Taught computer science and web development courses to students in the Game Design program; As well as helping student with their final project/resume.",
       "skills": {
         "HTML": "simple-icons:html5",
         "CSS": "ri:css3-fill",
         "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
+        "Teaching": "mdi:teacher"
+      }
+    },
+    {
+      "name": "Techlis Systems Inc.",
+      "position": "Founder & Full-stack Developer",
+      "location_type": "On-site",
+      "location": "Coquitlam, BC",
+      "url": "https://techlis.com/",
+      "startDate": "2017-04-01",
+      "endDate": null,
+      "summary": "Founded Techlis Systems Inc. to provide software development services to clients and mobile development.",
+      "highlights": [
+        "Developed and published multiple highly-rated Android and iOS apps, achieving over 500,000 downloads with an average user rating of 4.8 stars.",
+        "Explored emerging technologies like blockchain, IoT, machine learning, and AI tools toenhance software capabilities and user experiences.",
+        "Delivered e-commerce websites using NextJS, Gatsby, WordPress and custom solutions."
+      ],
+      "skills": {
         "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "React Native": "mdi:react",
+        "Android": "simple-icons:android",
+        "iOS": "simple-icons:ios",
+        "Swift": "simple-icons:swift",
+        "Java": "ri:java-fill",
+        "Material-UI": "mdi:material-ui",     
+        "Firebase": "simple-icons:firebase",
+        "Jest": "simple-icons:jest",
+        "Google Analytics": "simple-icons:googleanalytics"
+      }
+    },
+    {
+      "name": "Ensemble System Inc.",
+      "position": "Software Developer",
+      "location_type": "On-site",
+      "location": "Richmond, BC",
+      "url": "https://www.ensemble.com/",
+      "startDate": "2012-03-01",
+      "endDate": "2017-02-01",
+      "summary": "",
+      "highlights": [
+        "Developed health monitoring apps (Proteus), Shutterfly photo-sharing platform, and Epixmobile apps.",
+        "Contributed to TLIM website and Adobe WWSC mobile app development using AngularJS,PhoneGap, and Bootstrap."
+      ],
+      "skills": {
+        "Java": "ri:java-fill",
+        "Android": "simple-icons:android",
+        "JavaScript": "simple-icons:javascript",
+        "Angular": "mdi:angular",
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "Bootstrap": "simple-icons:bootstrap",
+        "Adobe Experience Manager": "simple-icons:adobe"
+      }
+    },
+    {
+      "name": "HSBC Bank Canada",
+      "position": "Developer and Quality Assurance",
+      "location_type": "On-site",
+      "location": "Burnaby, BC",
+      "startDate": "2007-09-01",
+      "endDate": "2008-06-01",
+      "summary": "Internship at HSBC Software Development Center.",
+      "highlights": [
+        "Designed and launched the HSBC North America Regional Support Center website.", 
+        "Improved team communication and support systems through innovative web solutions."
+      ],
+      "skills": {
+        "Java": "ri:java-fill",
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript"
       }
     }
   ],
@@ -190,17 +284,6 @@
       ]
     },
     {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
       "name": "TypeScript",
       "icon": "simple-icons:typescript",
       "level": "Expert",
@@ -209,6 +292,94 @@
         "Frontend",
         "Backend",
         "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "React Native",
+      "icon": "mdi:react",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Vue",
+      "icon": "mdi:vuejs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Angular",
+      "icon": "mdi:angular",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Vite",
+      "icon": "simple-icons:vite",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Build Tool"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Gatsby",
+      "icon": "simple-icons:gatsby",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
@@ -223,8 +394,105 @@
       ]
     },
     {
+      "name": "Express",
+      "icon": "simple-icons:express",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Node.js",
+        "Server"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "IOC"
+      ]
+    },
+    {
+      "name": "tRPC",
+      "icon": "simple-icons:trpc",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Query Language",
+        "Backend"
+      ]
+    },
+    {
+      "name": "GraphQL",
+      "icon": "simple-icons:graphql",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Query Language",
+        "Backend"
+      ]
+    },
+    {
+      "name": "REST API",
+      "icon": "mdi:api",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "API",
+        "Query Language",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Apollo",
+      "icon": "simple-icons:apollographql",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "GraphQL",
+        "Client",
+        "Server"
+      ]
+    },
+    {
+      "name": "React Query",
+      "icon": "simple-icons:reactquery",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "GraphQL",
+        "Client",
+        "Server"
+      ]
+    },
+    {
+      "name": "Redux",
+      "icon": "simple-icons:redux",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "State Management",
+        "Frontend"
+      ]
+    },
+    {
       "name": "SQL",
       "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
       "level": "Intermediate",
       "keywords": [
         "Databases",
@@ -242,6 +510,49 @@
         "File",
         "Data Storage",
         "Backend"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Charka UI",
+      "icon": "simple-icons:chakraui",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React UI Library"
+      ]
+    },
+    {
+      "name": "Material-UI",
+      "icon": "mdi:material-ui",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "simple-icons:bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
@@ -266,37 +577,103 @@
       ]
     },
     {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
+      "name": "Prisma",
+      "icon": "simple-icons:prisma",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "ORM",
+        "Database",
+        "TypeScript"
       ]
     },
     {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
+      "name": "Drizzle",
+      "icon": "simple-icons:drizzle",
+      "level": "Intermediate",
       "keywords": [
         "Web Development",
-        "Frontend",
-        "JavaScript Library",
+        "ORM",
+        "Database",
+        "TypeScript"
+      ]
+    },
+    {
+      "name": "Jest",
+      "icon": "simple-icons:jest",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "Unit Test",
+        "Integration Test"
+      ]
+    },
+    {
+      "name": "Cypress",
+      "icon": "simple-icons:cypress",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "End-to-End Test",
+        "Integration Test"
+      ]
+    },
+    {
+      "name": "Playwright",
+      "icon": "simple-icons:playwright",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "End-to-End Test",
+        "Integration Test"
+      ]
+    },
+    {
+      "name": "Storybook",
+      "icon": "simple-icons:storybook",
+      "level": "Intermediate",
+      "keywords": [
+        "Development",
+        "Component Library",
         "UI"
       ]
     },
     {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "Netlify",
+      "icon": "simple-icons:netlify",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Service",
+        "Serverless",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Terraform",
+      "icon": "mdi:terraform",
+      "level": "Intermediate",
+      "keywords": [
+        "Infrastructure as Code",
+        "Cloud Service",
+        "AWS"
       ]
     },
     {
@@ -306,95 +683,6 @@
       "keywords": [
         "Virtual Environments",
         "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "PHP",
-      "icon": "simple-icons:php",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Web Server"
-      ]
-    },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
       ]
     },
     {
@@ -416,12 +704,50 @@
       ]
     },
     {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
+      "name": "Android",
+      "icon": "simple-icons:android",
       "level": "Intermediate",
       "keywords": [
-        "Scripting",
-        "Automation"
+        "Mobile Development",
+        "Java",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "iOS",
+      "icon": "simple-icons:ios",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "Swift",
+        "Objective-C"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon":  "ri:java-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Android"
+      ]
+    },
+    {
+      "name": "Swift",
+      "icon": "simple-icons:swift",
+      "level": "Intermediate",
+      "keywords": [
+        "Mobile Development",
+        "iOS"
+      ]
+    },
+    {
+      "name": "Adobe Experience Manager",
+      "icon": "simple-icons:adobe",
+      "level": "Intermediate",
+      "keywords": [
+        "CMS",
+        "Web Development"
       ]
     },
     {
@@ -430,6 +756,15 @@
       "level": "Intermediate",
       "keywords": [
         "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
         "Scripting",
         "Automation"
       ]
@@ -453,20 +788,105 @@
       ]
     },
     {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
       "level": "Intermediate",
       "keywords": [
-        "Cloud Service"
+        "Cloud Service",
+        "Serverless",
+        "Infrastructure"
       ]
     },
     {
-      "name": "Cloudflare Edge Functions",
+      "name": "Azure",
+      "icon": "simple-icons:microsoftazure",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Service",
+        "Serverless",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Google Cloud",
+      "icon": "simple-icons:googlecloud",
+      "level": "Intermediate",
+      "keywords": [
+        "Cloud Service",
+        "Serverless",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "icon": "simple-icons:firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Supabase",
+      "icon": "simple-icons:supabase",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Cloudflare",
       "icon": "simple-icons:cloudflare",
       "level": "Expert",
       "keywords": [
         "Serverless",
         "Edge Computing"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "VS Code",
+      "icon": "simple-icons:visualstudiocode",
+      "level": "Expert",
+      "keywords": [
+        "IDE",
+        "Editor"
+      ]
+    },
+    {
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "Prototyping"
+      ]
+    },
+    {
+      "name": "Jira",
+      "icon": "simple-icons:jira",
+      "level": "Intermediate",
+      "keywords": [
+        "Project Management",
+        "Issue Tracking"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "icon": "simple-icons:confluence",
+      "level": "Intermediate",
+      "keywords": [
+        "Documentation",
+        "Collaboration"
       ]
     }
   ],
@@ -484,7 +904,7 @@
     {
       "name": "Technology",
       "keywords": [
-        "AI",
+        "Artificial Intelligence",
         "Blockchain",
         "Cloud Computing",
         "Fullstack",
@@ -500,9 +920,9 @@
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Tipbox",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://tipbox.io",
         "position": "container",
         "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
       },
@@ -514,16 +934,16 @@
         "😄 Support multiple domain name suffixes",
         "🚀 100% open source, fully based on Cloudflare."
       ],
-      "url": "https://what-the-fuck.sbs",
+      "url": "https://tipbox.io",
       "github": "https://github.com/MiraHikari/cloudflare-vmail"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "NFB Mobile App",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
+        "url": "https://maisie-beauty.vercel.app/",
         "position": "background"
       },
-      "isActive": false,
+      "isActive": true,
       "description": "Public decryption activity in the form of Puzzle Hunt.",
       "highlights": [
         "👌 More than 1000 people participated, system runs normally",
@@ -531,7 +951,23 @@
         "😊 Windows-like interface",
         "💕 Based on Astro"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://maisie-beauty.vercel.app/"
+    },
+    {
+      "name": "Maisie Beauty Salon",
+      "image": {
+        "url": "https://maisie-beauty.vercel.app/",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "highlights": [
+        "👌 More than 1000 people participated, system runs normally",
+        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
+        "😊 Windows-like interface",
+        "💕 Based on Astro"
+      ],
+      "url": "https://maisie-beauty.vercel.app/"
     }
   ]
 }
