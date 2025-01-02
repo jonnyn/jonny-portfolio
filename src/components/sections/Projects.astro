@@ -3,7 +3,12 @@ import Section from "../Section.astro";
 import { Icon } from "astro-icon/components";
 
 import { projects } from "@cv";
+import { Debug } from 'astro:components';
 import { Image } from "astro:assets";
+import type { ImageMetadata } from 'astro';
+// import tipbox from '../../assets/thumbs/TipboxSmall.png';
+
+const images = import.meta.glob<{ default: ImageMetadata }>('../../assets/thumbs/*.{jpeg,jpg,png,gif}');
 ---
 
 <Section className={Astro.props.className} title="Projects">
@@ -11,6 +16,7 @@ import { Image } from "astro:assets";
     {
       projects.map(
         ({ url, description, highlights, name, isActive, github, image }) => {
+          if (!images[image.url]) throw new Error(`"${image.url}" does not exist in glob: "src/assets/*.{jpeg,jpg,png,gif}"`);
           const isBackgroundImage = image && image?.position === "background";
           const isContainerImage = image && image?.position === "container";
           return (
@@ -20,25 +26,40 @@ import { Image } from "astro:assets";
                 "project-container grid-span-1 group relative flex min-h-80 flex-col overflow-hidden rounded-md bg-skin-button-muted/50 p-5 shadow-sm ring-1 ring-skin-muted",
               ]}
             >
-              {isBackgroundImage && (
-                <a data-src={image.url} data-fancybox="projects">
+              {/* {isBackgroundImage && (
+                <a data-src={images[image.url]} data-fancybox="projects">
                   <div
                     class:list={[
                       "absolute inset-0 transform bg-cover bg-center bg-no-repeat opacity-30 blur-sm grayscale transition-all duration-300",
                       image.dark ? "dark:hidden" : "",
                     ]}
-                    style={{ backgroundImage: `url(${image.url})` }}
+                    style={{ backgroundImage: `url(${images[image.url]})` }}
                   />
                   {image.dark && (
                     <div
                       class="absolute inset-0 hidden transform bg-cover bg-center bg-no-repeat opacity-30 blur-sm grayscale transition-all duration-300 dark:block"
-                      style={{ backgroundImage: `url(${image.dark})` }}
+                      style={{ backgroundImage: `url(${images[image.dark]})` }}
                     />
                   )}
                 </a>
+              )} */}
+              <Image
+                src={images[image.url]()}
+                alt=""
+                class:list={[
+                  "mt-3 max-w-full rounded-lg",
+                  image.dark ? "dark:hidden" : "",
+                ]}
+              />
+              {image.dark && (
+                <Image
+                  src={images[image.dark]()}
+                  alt=""
+                  class="mt-3 hidden max-w-full rounded-lg dark:block"
+                />
               )}
               <div
-                class={`relative z-10 flex items-center justify-between space-x-[10px]`}
+                class={`relative z-10 flex items-center justify-between space-x-[10px] pt-4`}
               >
                 <div class="flex items-center gap-2">
                   <Icon name="mdi:folder-outline" class="size-4" />
@@ -85,7 +106,7 @@ import { Image } from "astro:assets";
               {isContainerImage && (
                 <a data-src={image.url} data-fancybox="projects">
                   <Image
-                    src={image.url}
+                    src={images[image.url]()}
                     alt=""
                     width={800}
                     height={1080}
@@ -96,7 +117,7 @@ import { Image } from "astro:assets";
                   />
                   {image.dark && (
                     <Image
-                      src={image.dark}
+                      src={images[image.dark]()}
                       alt=""
                       width={800}
                       height={1080}
@@ -105,11 +126,11 @@ import { Image } from "astro:assets";
                   )}
                 </a>
               )}
-              {isBackgroundImage && (
+              {/* {isBackgroundImage && (
                 <p class="absolute bottom-2 right-2 font-mono text-sm text-skin-muted">
                   Click blank to enlarge
                 </p>
-              )}
+              )} */}
             </div>
           );
         },

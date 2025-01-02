@@ -922,52 +922,88 @@
     {
       "name": "Tipbox",
       "image": {
-        "url": "https://tipbox.io",
-        "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "url": "../../assets/thumbs/TipboxSmall.png",
+        "dark": "../../assets/thumbs/TipboxSmall.png",
+        "position": "background"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "Dev Lead. Leading dev teams from infrastructure setup, Terraform configuration, AWS services setup, to Backend MERN stack, GraphQL server; and Frontend React, Redux, Chakra UI client.",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
+        "🎯 Connecting Teams & Solving Fractured Workflows. All within one unified workspace.",
+        "✨ Reduce sharing unsecure assets via email throughout the lifecycle of a project.",
         "😄 Support multiple domain name suffixes",
         "🚀 100% open source, fully based on Cloudflare."
       ],
       "url": "https://tipbox.io",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
-    },
-    {
-      "name": "NFB Mobile App",
-      "image": {
-        "url": "https://maisie-beauty.vercel.app/",
-        "position": "background"
-      },
-      "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
-      "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
-      ],
-      "url": "https://maisie-beauty.vercel.app/"
+      "github": "https://github.com/"
     },
     {
       "name": "Maisie Beauty Salon",
       "image": {
-        "url": "https://maisie-beauty.vercel.app/",
+        "url": "../../assets/thumbs/maisie-beauty-thumb.jpg",
         "position": "background"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "Modern Salon Booking & Management Platform. Maisie Beauty is a full-stack web application, offering seamless booking experiences for customers and powerful management tools for administrators. The platform serves both customers and salon administrators with a sleek, user-friendly interface",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        "💕 This platform represents a modern approach to salon management, prioritizing user experience while maintaining robust administrative capabilities."
       ],
       "url": "https://maisie-beauty.vercel.app/"
+    },
+    {
+      "name": "NFB Mobile App",
+      "image": {
+        "url": "../../assets/thumbs/NFBFilmsAppSmall.png",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Built NFB films app using React Native at National Film Board of Canada. Watch over 4000 films from Canada’s National Film Board - documentaries, animations and feature films - free on your device.",
+      "highlights": [
+        "👌 More than 100000 people participated, app runs normally",
+        "😮‍ Developed a cross-platform mobile app and interactive CMS for managingmultimedia content.",
+        "💕 Using React Native for hybrid mobile app on both Android and iOS platforms"
+      ],
+      "url": "https://www.nfb.ca/apps/"
+    },
+    {
+      "name": "Lyft Shipping - Diamond Delivery",
+      "image": {
+        "url": "../../assets/thumbs/LyftShippingSmall.png",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Leading Lyft Shipping dev team as full-stack engineer to build MERN stack, GraphQL backend; React web client and React Native mobile clients",
+      "highlights": [
+        "🚀 Built a real-time logistics and transportation platform with AWS, React, React Native, GraphQL, and Node.js.",
+        "😊 MERN stack"
+      ],
+      "url": "https://diamonddelivers.com/"
+    },
+    {
+      "name": "Epix - Android / Windows Mobile App",
+      "image": {
+        "url": "../../assets/thumbs/EpixLogoSmall.jpg",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "Developer on a team of two to create an Android and Windows apps to act as a front end for the Epix collection of movies and TV shows. The app allowed the user to browse, favourite, and watch movies and TV shows on their android device. It was built using the Android SDK ( in Java ) with Eclipse and Android Studio.",
+      "highlights": [
+        "🚀 Well-known video streaming app forlarge-scale platforms."
+      ],
+      "url": "https://www.mgmplus.com/"
+    },
+    {
+      "name": "Franklin Covey - The Leader In Me",
+      "image": {
+        "url": "../../assets/thumbs/TLIMSmall.jpg",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "One of three main developers in Agile team of 12. Responsible for building reusable AEM components and templates, building complex community page and post builder, as well as overall stability and performance of the site. Developed using AEM 6.1, Java, Apache Sling Servlets, Sightly, JS, JQuery, Handlebars, Bootstrap, and SCSS.",
+      "highlights": [
+        "💕 Used Adobe Experience Management."
+      ],
+      "url": "https://www.leaderinme.org/"
     }
   ]
 }
