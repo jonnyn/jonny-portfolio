@@ -58,7 +58,7 @@
       "endDate": "2005-4-30"
     }
   ],
-  "certificates": [    
+  "certificates": [
     {
       "name": "AWS Certified Cloud Practitioner",
       "date": "2022-04-14",
@@ -157,7 +157,7 @@
         "React": "mdi:react",
         "React Native": "mdi:react",
         "Fastlane": "simple-icons:fastlane",
-        "Material-UI": "mdi:material-ui",     
+        "Material-UI": "mdi:material-ui",
         "AWS": "simple-icons:amazonaws",
         "Firebase": "simple-icons:firebase",
         "Jest": "simple-icons:jest",
@@ -202,7 +202,7 @@
         "iOS": "simple-icons:ios",
         "Swift": "simple-icons:swift",
         "Java": "ri:java-fill",
-        "Material-UI": "mdi:material-ui",     
+        "Material-UI": "mdi:material-ui",
         "Firebase": "simple-icons:firebase",
         "Jest": "simple-icons:jest",
         "Google Analytics": "simple-icons:googleanalytics"
@@ -241,7 +241,7 @@
       "endDate": "2008-06-01",
       "summary": "Internship at HSBC Software Development Center.",
       "highlights": [
-        "Designed and launched the HSBC North America Regional Support Center website.", 
+        "Designed and launched the HSBC North America Regional Support Center website.",
         "Improved team communication and support systems through innovative web solutions."
       ],
       "skills": {
@@ -257,31 +257,19 @@
       "name": "HTML",
       "icon": "simple-icons:html5",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "TypeScript",
@@ -295,26 +283,56 @@
       ]
     },
     {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": ["Machine Learning", "Frontend", "Backend"]
+    },
+    {
+      "name": "Java",
+      "icon": "ri:java-fill",
+      "level": "Intermediate",
+      "keywords": ["Backend", "Android"]
+    },
+    {
+      "name": "Swift",
+      "icon": "simple-icons:swift",
+      "level": "Intermediate",
+      "keywords": ["Mobile Development", "iOS"]
+    },
+    {
+      "name": "C++",
+      "icon": "simple-icons:cplusplus",
+      "level": "Intermediate",
+      "keywords": [
+        "Game Development",
+        "Backend",
+        "System Programming",
+        "Embedded Systems"
+      ]
+    },
+    {
+      "name": "C#",
+      "icon": "mdi:language-csharp",
+      "level": "Intermediate",
+      "keywords": [
+        "Game Development",
+        "Backend",
+        "System Programming",
+        "Embedded Systems"
+      ]
+    },
+    {
       "name": "React",
       "icon": "mdi:react",
       "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "React Native",
       "icon": "mdi:react",
       "level": "Intermediate",
-      "keywords": [
-        "Mobile Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Mobile Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Next.js",
@@ -332,185 +350,115 @@
       "name": "Vue",
       "icon": "mdi:vuejs",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Angular",
       "icon": "mdi:angular",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
+      "keywords": ["Web Development", "Frontend", "Build Tool"]
     },
     {
       "name": "Astro",
       "icon": "simple-icons:astro",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
     },
     {
       "name": "Gatsby",
       "icon": "simple-icons:gatsby",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
     },
     {
       "name": "Node",
       "icon": "ri:nodejs-line",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "Express",
       "icon": "simple-icons:express",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "Node.js",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "Node.js", "Server"]
+    },
+    {
+      "name": "Fastify",
+      "icon": "simple-icons:fastify",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "Node.js", "Server"]
     },
     {
       "name": "NestJS",
       "icon": "simple-icons:nestjs",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
+      "keywords": ["Web Development", "Backend", "IOC"]
     },
     {
       "name": "tRPC",
       "icon": "simple-icons:trpc",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "API",
-        "Query Language",
-        "Backend"
-      ]
+      "keywords": ["Web Development", "API", "Query Language", "Backend"]
     },
     {
       "name": "GraphQL",
       "icon": "simple-icons:graphql",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "API",
-        "Query Language",
-        "Backend"
-      ]
+      "keywords": ["Web Development", "API", "Query Language", "Backend"]
     },
     {
       "name": "REST API",
       "icon": "mdi:api",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "API",
-        "Query Language",
-        "Backend"
-      ]
+      "keywords": ["Web Development", "API", "Query Language", "Backend"]
     },
     {
       "name": "Apollo",
       "icon": "simple-icons:apollographql",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "GraphQL",
-        "Client",
-        "Server"
-      ]
+      "keywords": ["Web Development", "GraphQL", "Client", "Server"]
     },
     {
       "name": "React Query",
       "icon": "simple-icons:reactquery",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "GraphQL",
-        "Client",
-        "Server"
-      ]
+      "keywords": ["Web Development", "GraphQL", "Client", "Server"]
     },
     {
       "name": "Redux",
+      "icon": "simple-icons:mobx",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "State Management", "Frontend"]
+    },
+    {
+      "name": "MobX",
       "icon": "simple-icons:redux",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "State Management",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "State Management", "Frontend"]
     },
     {
       "name": "SQL",
       "icon": "simple-icons:mysql",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "PostgreSQL",
       "icon": "simple-icons:postgresql",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "MongoDB",
       "icon": "simple-icons:mongodb",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "File", "Data Storage", "Backend"]
     },
     {
       "name": "Tailwind",
@@ -527,11 +475,13 @@
       "name": "Charka UI",
       "icon": "simple-icons:chakraui",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React UI Library"
-      ]
+      "keywords": ["Web Development", "Frontend", "React UI Library"]
+    },
+    {
+      "name": "Shadcn UI",
+      "icon": "simple-icons:radixui",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "React UI Library"]
     },
     {
       "name": "Material-UI",
@@ -559,335 +509,217 @@
       "name": "Git",
       "icon": "mdi:git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "icon": "mdi:github",
       "level": "Expert",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "Prisma",
       "icon": "simple-icons:prisma",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "ORM",
-        "Database",
-        "TypeScript"
-      ]
+      "keywords": ["Web Development", "ORM", "Database", "TypeScript"]
     },
     {
       "name": "Drizzle",
       "icon": "simple-icons:drizzle",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "ORM",
-        "Database",
-        "TypeScript"
-      ]
+      "keywords": ["Web Development", "ORM", "Database", "TypeScript"]
+    },
+    {
+      "name": "Mongoose",
+      "icon": "simple-icons:mongoose",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "ORM", "Database", "TypeScript"]
     },
     {
       "name": "Jest",
       "icon": "simple-icons:jest",
       "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "Unit Test",
-        "Integration Test"
-      ]
+      "keywords": ["Testing", "Unit Test", "Integration Test"]
     },
     {
       "name": "Cypress",
       "icon": "simple-icons:cypress",
       "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "End-to-End Test",
-        "Integration Test"
-      ]
+      "keywords": ["Testing", "End-to-End Test", "Integration Test"]
     },
     {
       "name": "Playwright",
       "icon": "simple-icons:playwright",
       "level": "Intermediate",
-      "keywords": [
-        "Testing",
-        "End-to-End Test",
-        "Integration Test"
-      ]
+      "keywords": ["Testing", "End-to-End Test", "Integration Test"]
     },
     {
       "name": "Storybook",
       "icon": "simple-icons:storybook",
       "level": "Intermediate",
-      "keywords": [
-        "Development",
-        "Component Library",
-        "UI"
-      ]
+      "keywords": ["Development", "Component Library", "UI"]
     },
     {
       "name": "Vercel",
       "icon": "simple-icons:vercel",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Netlify",
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "AWS",
       "icon": "simple-icons:amazonaws",
       "level": "Intermediate",
-      "keywords": [
-        "Cloud Service",
-        "Serverless",
-        "Infrastructure"
-      ]
+      "keywords": ["Cloud Service", "Serverless", "Infrastructure"]
     },
     {
       "name": "Terraform",
       "icon": "mdi:terraform",
       "level": "Intermediate",
-      "keywords": [
-        "Infrastructure as Code",
-        "Cloud Service",
-        "AWS"
-      ]
+      "keywords": ["Infrastructure as Code", "Cloud Service", "AWS"]
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
+      "keywords": ["Virtual Environments", "Backend"]
     },
     {
       "name": "Socket.IO",
       "icon": "simple-icons:socketdotio",
       "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
+      "keywords": ["Realtime", "Websocket"]
     },
     {
       "name": "Electron",
       "icon": "simple-icons:electron",
       "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
+      "keywords": ["Desktop App", "Webview"]
     },
     {
       "name": "Android",
       "icon": "simple-icons:android",
       "level": "Intermediate",
-      "keywords": [
-        "Mobile Development",
-        "Java",
-        "Kotlin"
-      ]
+      "keywords": ["Mobile Development", "Java", "Kotlin"]
     },
     {
       "name": "iOS",
       "icon": "simple-icons:ios",
       "level": "Intermediate",
-      "keywords": [
-        "Mobile Development",
-        "Swift",
-        "Objective-C"
-      ]
+      "keywords": ["Mobile Development", "Swift", "Objective-C"]
     },
     {
-      "name": "Java",
-      "icon":  "ri:java-fill",
+      "name": "Expo",
+      "icon": "simple-icons:expo",
       "level": "Intermediate",
-      "keywords": [
-        "Backend",
-        "Android"
-      ]
+      "keywords": ["Mobile Development", "React Native"]
     },
     {
-      "name": "Swift",
-      "icon": "simple-icons:swift",
+      "name": "Unity",
+      "icon": "simple-icons:unity",
       "level": "Intermediate",
-      "keywords": [
-        "Mobile Development",
-        "iOS"
-      ]
+      "keywords": ["Game Development", "Cross-platform", "C#", "3D"]
     },
     {
       "name": "Adobe Experience Manager",
       "icon": "simple-icons:adobe",
       "level": "Intermediate",
-      "keywords": [
-        "CMS",
-        "Web Development"
-      ]
+      "keywords": ["CMS", "Web Development"]
     },
     {
       "name": "Linux",
       "icon": "simple-icons:linux",
       "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
+      "keywords": ["OS", "Scripting", "Automation"]
     },
     {
       "name": "Shell",
       "icon": "simple-icons:shell",
       "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
+      "keywords": ["Scripting", "Automation"]
     },
     {
       "name": "Vercel",
       "icon": "simple-icons:vercel",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "Netlify",
       "icon": "simple-icons:netlify",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
+      "keywords": ["Serverless", "Static Site Hosting"]
     },
     {
       "name": "AWS",
       "icon": "simple-icons:amazonaws",
       "level": "Intermediate",
-      "keywords": [
-        "Cloud Service",
-        "Serverless",
-        "Infrastructure"
-      ]
+      "keywords": ["Cloud Service", "Serverless", "Infrastructure"]
     },
     {
       "name": "Azure",
       "icon": "simple-icons:microsoftazure",
       "level": "Intermediate",
-      "keywords": [
-        "Cloud Service",
-        "Serverless",
-        "Infrastructure"
-      ]
+      "keywords": ["Cloud Service", "Serverless", "Infrastructure"]
     },
     {
       "name": "Google Cloud",
       "icon": "simple-icons:googlecloud",
       "level": "Intermediate",
-      "keywords": [
-        "Cloud Service",
-        "Serverless",
-        "Infrastructure"
-      ]
+      "keywords": ["Cloud Service", "Serverless", "Infrastructure"]
     },
     {
       "name": "Firebase",
       "icon": "simple-icons:firebase",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Backend"
-      ]
+      "keywords": ["Serverless", "Backend"]
     },
     {
       "name": "Supabase",
       "icon": "simple-icons:supabase",
       "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Backend"
-      ]
+      "keywords": ["Serverless", "Backend"]
     },
     {
       "name": "Cloudflare",
       "icon": "simple-icons:cloudflare",
       "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
-      ]
+      "keywords": ["Serverless", "Edge Computing"]
     },
     {
       "name": "Docker",
       "icon": "mdi:docker",
       "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
+      "keywords": ["Virtual Environments", "Backend"]
     },
     {
       "name": "VS Code",
       "icon": "simple-icons:visualstudiocode",
       "level": "Expert",
-      "keywords": [
-        "IDE",
-        "Editor"
-      ]
+      "keywords": ["IDE", "Editor"]
     },
     {
       "name": "Figma",
       "icon": "simple-icons:figma",
       "level": "Intermediate",
-      "keywords": [
-        "Design",
-        "Prototyping"
-      ]
+      "keywords": ["Design", "Prototyping"]
     },
     {
       "name": "Jira",
       "icon": "simple-icons:jira",
       "level": "Intermediate",
-      "keywords": [
-        "Project Management",
-        "Issue Tracking"
-      ]
+      "keywords": ["Project Management", "Issue Tracking"]
     },
     {
       "name": "Confluence",
       "icon": "simple-icons:confluence",
       "level": "Intermediate",
-      "keywords": [
-        "Documentation",
-        "Collaboration"
-      ]
+      "keywords": ["Documentation", "Collaboration"]
     }
   ],
   "languages": [
@@ -923,7 +755,7 @@
       "name": "Tipbox",
       "image": {
         "url": "../../assets/thumbs/TipboxSmall.png",
-        "dark": "../../assets/thumbs/TipboxSmall.png",
+        "dark": "",
         "position": "background"
       },
       "isActive": true,
@@ -1000,9 +832,7 @@
       },
       "isActive": true,
       "description": "One of three main developers in Agile team of 12. Responsible for building reusable AEM components and templates, building complex community page and post builder, as well as overall stability and performance of the site. Developed using AEM 6.1, Java, Apache Sling Servlets, Sightly, JS, JQuery, Handlebars, Bootstrap, and SCSS.",
-      "highlights": [
-        "💕 Used Adobe Experience Management."
-      ],
+      "highlights": ["💕 Used Adobe Experience Management."],
       "url": "https://www.leaderinme.org/"
     }
   ]
