@@ -62,19 +62,19 @@
     {
       "name": "AWS Certified Cloud Practitioner",
       "date": "2022-04-14",
-      "url": "",
+      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/",
       "issuer": "Amazon"
     },
     {
       "name": "AWS Business Professional Certification",
       "date": "2022-05-01",
-      "url": "",
+      "url": "https://aws.amazon.com/certification/",
       "issuer": "Amazon"
     },
     {
       "name": "Google Analytics Certification",
       "date": "2018-05-01",
-      "url": "",
+      "url": "https://grow.google/certificates/data-analytics/",
       "issuer": "Google"
     }
   ],
