@@ -7,7 +7,7 @@
     "image": "/avatar.png",
     "email": "jonnyn@live.com",
     "url": "https://www.jonnyn.com",
-    "summary": "Software Engineer and Solution Architect with over 10 years of experience in developing weband mobile applications using both native and hybrid technologies. Proven expertise insolution architecture, full-stack development, and DevOps practices, with a strong trackrecord of leading scalable cloud infrastructure projects on AWS. A collaborative team playerwith a passion for innovation, continuous learning, and delivering high-quality softwaresolutions.",
+    "summary": "Software Engineer and Solution Architect with over 10 years of experience in developing web and mobile applications using both native and hybrid technologies. Proven expertise insolution architecture, full-stack development, and DevOps practices, with a strong track record of leading scalable cloud infrastructure projects on AWS. A collaborative team player with a passion for innovation, continuous learning, and delivering high-quality software solutions.",
     "theme": "default",
     "location": {
       "address": "Vancouver",
@@ -124,7 +124,7 @@
       "summary": "Worked on a variety of projects, including web and mobile applications, cloud infrastructure, and real-time data synchronization.",
       "highlights": [
         "Built a complex logistics platform (Lyft Shipping) with AWS, Node.js, MongoDB, React, and React Native.",
-        "Designed and implemented AWS-based cloud infrastructure and real-time datasynchronization for mobile apps.",
+        "Designed and implemented AWS-based cloud infrastructure and real-time data synchronization for mobile apps.",
         "Contributed to cloud migration projects and infrastructure setups."
       ],
       "skills": {
@@ -174,11 +174,17 @@
       "startDate": "2017-08-01",
       "endDate": "2018-12-01",
       "summary": "Taught computer science and web development courses to students in the Game Design program; As well as helping student with their final project/resume.",
+      "highlights": [
+        "Taught computer science and web development courses to students in the Game Design program.",
+        "Helped students with their final projects and resumes."
+      ],
       "skills": {
         "HTML": "simple-icons:html5",
         "CSS": "ri:css3-fill",
         "JavaScript": "simple-icons:javascript",
-        "Teaching": "mdi:teacher"
+        "Teaching": "mdi:teacher",
+        "Unity": "simple-icons:unity",
+        "Unreal Engine": "simple-icons:unrealengine"
       }
     },
     {
@@ -193,7 +199,7 @@
       "highlights": [
         "Developed and published multiple highly-rated Android and iOS apps, achieving over 500,000 downloads with an average user rating of 4.8 stars.",
         "Explored emerging technologies like blockchain, IoT, machine learning, and AI tools toenhance software capabilities and user experiences.",
-        "Delivered e-commerce websites using NextJS, Gatsby, WordPress and custom solutions."
+        "Delivered e-commerce websites using NextJS, Astro, Gatsby, WordPress and custom solutions."
       ],
       "skills": {
         "React": "mdi:react",
@@ -219,7 +225,7 @@
       "summary": "",
       "highlights": [
         "Developed health monitoring apps (Proteus), Shutterfly photo-sharing platform, and Epixmobile apps.",
-        "Contributed to TLIM website and Adobe WWSC mobile app development using AngularJS,PhoneGap, and Bootstrap."
+        "Contributed to TLIM website and Adobe WWSC mobile app development using AngularJS, PhoneGap, and Bootstrap."
       ],
       "skills": {
         "Java": "ri:java-fill",
@@ -759,12 +765,11 @@
         "position": "background"
       },
       "isActive": true,
-      "description": "Dev Lead. Leading dev teams from infrastructure setup, Terraform configuration, AWS services setup, to Backend MERN stack, GraphQL server; and Frontend React, Redux, Chakra UI client.",
+      "description": "Dev Lead. Leading dev teams from infrastructure setup, Terraform configuration, AWS services setup, to Backend PERN stack, GraphQL server; and Frontend React, Redux, Chakra UI client.",
       "highlights": [
         "🎯 Connecting Teams & Solving Fractured Workflows. All within one unified workspace.",
         "✨ Reduce sharing unsecure assets via email throughout the lifecycle of a project.",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🔔 Intelligent notification systems that can prioritize and minimize alerts simutaneously."
       ],
       "url": "https://tipbox.io",
       "github": "https://github.com/"
@@ -789,11 +794,11 @@
         "position": "background"
       },
       "isActive": true,
-      "description": "Built NFB films app using React Native at National Film Board of Canada. Watch over 4000 films from Canada’s National Film Board - documentaries, animations and feature films - free on your device.",
+      "description": "Built NFB films app using React Native at National Film Board of Canada. Watch over 4000 films from NFB - documentaries, animations and feature films - free on your device.",
       "highlights": [
-        "👌 More than 100000 people participated, app runs normally",
-        "😮‍ Developed a cross-platform mobile app and interactive CMS for managingmultimedia content.",
-        "💕 Using React Native for hybrid mobile app on both Android and iOS platforms"
+        "👌 Developed a cross-platform mobile app and interactive CMS for managing multimedia content.",
+        "📱 Used React Native for hybrid mobile app on both Android and iOS platforms.",
+        "📺 Integrated native Android and iOS SDKs for casting to big screens."
       ],
       "url": "https://www.nfb.ca/apps/"
     },
@@ -807,7 +812,8 @@
       "description": "Leading Lyft Shipping dev team as full-stack engineer to build MERN stack, GraphQL backend; React web client and React Native mobile clients",
       "highlights": [
         "🚀 Built a real-time logistics and transportation platform with AWS, React, React Native, GraphQL, and Node.js.",
-        "😊 MERN stack"
+        "🚚 Real-time driver tracking mobile app to manage shipments ande delivery status, as well as communications between drivers and central hub operators.",
+        "🏠 Warehouse mobile app to manage inventory and pickup schedules."
       ],
       "url": "https://diamonddelivers.com/"
     },
@@ -820,7 +826,7 @@
       "isActive": true,
       "description": "Developer on a team of two to create an Android and Windows apps to act as a front end for the Epix collection of movies and TV shows. The app allowed the user to browse, favourite, and watch movies and TV shows on their android device. It was built using the Android SDK ( in Java ) with Eclipse and Android Studio.",
       "highlights": [
-        "🚀 Well-known video streaming app forlarge-scale platforms."
+        "🚀 Well-known video streaming app for large-scale platforms."
       ],
       "url": "https://www.mgmplus.com/"
     },
@@ -832,7 +838,10 @@
       },
       "isActive": true,
       "description": "One of three main developers in Agile team of 12. Responsible for building reusable AEM components and templates, building complex community page and post builder, as well as overall stability and performance of the site. Developed using AEM 6.1, Java, Apache Sling Servlets, Sightly, JS, JQuery, Handlebars, Bootstrap, and SCSS.",
-      "highlights": ["💕 Used Adobe Experience Management."],
+      "highlights": [
+        "💕 Used Adobe Experience Management as content management.",
+        "🧑🏽‍💻 Created reusable customizable AEM components."
+      ],
       "url": "https://www.leaderinme.org/"
     }
   ]

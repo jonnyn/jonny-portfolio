@@ -1,0 +1,18 @@
+---
+import { Icon } from "astro-icon/components"
+import Section from "../Section.astro"
+import myResume from "../../assets/files/Jonny_Nguyen_Resume.pdf"
+---
+
+<Section id="resume">
+  <a
+    id="viewResume"
+    class="flex w-fit items-center gap-2 rounded-md border border-solid border-skin-hue/20 bg-skin-button-accent/20 p-2 text-sm text-skin-hue transition-transform ease-in-out group-hover/theme:rotate-45 print:border-none print:bg-transparent print:p-0 print:text-zinc-800"
+    aria-label="View Resume"
+    href={myResume}
+    target="_blank"
+  >
+    <Icon name="simple-icons:readdotcv" width={20} height={20} />
+    <span> View my Resume </span>
+  </a>
+</Section>
