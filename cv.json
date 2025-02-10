@@ -4,7 +4,7 @@
   "basics": {
     "name": "Jonny Nguyen",
     "label": "Experienced Full Stack Engineer",
-    "image": "/avatar.png",
+    "image": "/avatar.jpg",
     "email": "jonnyn@live.com",
     "url": "https://www.jonnyn.com",
     "summary": "Software Engineer and Solution Architect with over 10 years of experience in developing web and mobile applications using both native and hybrid technologies. Proven expertise insolution architecture, full-stack development, and DevOps practices, with a strong track record of leading scalable cloud infrastructure projects on AWS. A collaborative team player with a passion for innovation, continuous learning, and delivering high-quality software solutions.",
@@ -771,8 +771,7 @@
         "✨ Reduce sharing unsecure assets via email throughout the lifecycle of a project.",
         "🔔 Intelligent notification systems that can prioritize and minimize alerts simutaneously."
       ],
-      "url": "https://tipbox.io",
-      "github": "https://github.com/"
+      "url": "https://tipbox.io"
     },
     {
       "name": "Maisie Beauty Salon",
@@ -785,7 +784,8 @@
       "highlights": [
         "💕 This platform represents a modern approach to salon management, prioritizing user experience while maintaining robust administrative capabilities."
       ],
-      "url": "https://maisie-beauty.vercel.app/"
+      "url": "https://maisie-beauty.vercel.app/",
+      "github": "https://github.com/jonnyn"
     },
     {
       "name": "NFB Mobile App",
