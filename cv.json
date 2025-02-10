@@ -3,11 +3,11 @@
   "pageLayout": "two-column",
   "basics": {
     "name": "Jonny Nguyen",
-    "label": "Experienced Full Stack Engineer",
+    "label": "Experienced Full-Stack Engineer",
     "image": "/avatar.jpg",
     "email": "jonnyn@live.com",
     "url": "https://www.jonnyn.com",
-    "summary": "Software Engineer and Solution Architect with over 10 years of experience in developing web and mobile applications using both native and hybrid technologies. Proven expertise insolution architecture, full-stack development, and DevOps practices, with a strong track record of leading scalable cloud infrastructure projects on AWS. A collaborative team player with a passion for innovation, continuous learning, and delivering high-quality software solutions.",
+    "summary": "Highly skilled and accomplished Software Engineer and Solution Architect with 15+ years of extensive web / mobile development and team leadership. Proven expertise in solution architecture, full-stack development, and DevOps practices, with a strong track record of leading scalable cloud infrastructure projects on AWS, GCP, etc. A collaborative team player with a passion for innovation, continuous learning, and delivering high-quality software solutions.",
     "theme": "default",
     "location": {
       "address": "Vancouver",
@@ -84,7 +84,7 @@
       "position": "Senior Full-stack Developer",
       "location_type": "Remote",
       "location": "Vancouver, BC",
-      "url": "https://tipbox.io",
+      "url": "https://www.tipbox.io/who-we-are",
       "startDate": "2021-03-01",
       "endDate": "2024-12-01",
       "summary": "Joined Tipbox as a Core team member to lead the development of a new cloud-based platform for connecting teams and solving fractured.",
@@ -116,7 +116,7 @@
     {
       "name": "Convergence Concepts Inc.",
       "position": "Full-stack Developer",
-      "location_type": "On-site",
+      "location_type": "Hybrid",
       "location": "Vancouver, BC",
       "url": "https://cctech.io/",
       "startDate": "2020-06-01",
@@ -240,7 +240,7 @@
     },
     {
       "name": "HSBC Bank Canada",
-      "position": "Developer and Quality Assurance",
+      "position": "Developer and QA",
       "location_type": "On-site",
       "location": "Burnaby, BC",
       "startDate": "2007-09-01",
